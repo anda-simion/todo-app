@@ -1,0 +1,31 @@
+{
+    "prettier.printWidth": 120,
+    "cSpell.words": [
+      "Downdrop",
+      "Sider",
+      "Sparkline",
+      "Unmount",
+      "antd",
+      "backlinks",
+      "bizcharts",
+      "bordingschoolreview",
+      "compose",
+      "devtools",
+      "extension",
+      "flexbox",
+      "knowledgebase",
+      "privateschoolreview",
+      "recurly",
+      "redux",
+      "seositecheckup",
+      "submenu",
+      "submenus",
+      "taradornelor",
+      "ufree",
+      "usertest",
+      "uuidv"
+    ],
+    "prettier.jsxBracketSameLine": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
