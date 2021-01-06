@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import TodoList from "./TodoList";
+import TodoList from "./components/TodoList";
 import "./App.css";
-import AddTodoForm from "./AddTodoForm";
+import AddTodoForm from "./components/AddTodoForm";
 import { v1 as uuidv1 } from "uuid";
 
 const initialTodos: Array<Todo> = [
